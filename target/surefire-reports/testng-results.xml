@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium.TestNGTest" duration-ms="11146" started-at="2021-04-03T00:01:36 IST" finished-at="2021-04-03T00:01:47 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11146" started-at="2021-04-03T00:01:36 IST" finished-at="2021-04-03T00:01:47 IST">
+      <class name="Selenium.TestNGTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Selenium.TestNGTest@6fd02e5]" name="setup" is-config="true" duration-ms="5445" started-at="2021-04-03T00:01:36 IST" finished-at="2021-04-03T00:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CalendarPickUp()[pri:0, instance:Selenium.TestNGTest@6fd02e5]" name="CalendarPickUp" duration-ms="1497" started-at="2021-04-03T00:01:41 IST" finished-at="2021-04-03T00:01:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalendarPickUp -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:Selenium.TestNGTest@6fd02e5]" name="TearDown" is-config="true" duration-ms="4167" started-at="2021-04-03T00:01:43 IST" finished-at="2021-04-03T00:01:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Selenium.TestNGTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Selenium.TestNGTest -->
+</testng-results>
